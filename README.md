@@ -22,8 +22,7 @@ A multifunctional Telegram Bot based Android App Get Victims Information Receive
 
 ## Requirement
 
-Download </a href="https://maximoff.su/apktool/?lang=en"><Download Apkm Toll/>
-
+Download a href="https://maximoff.su/apktool/?lang=en">Apkm Toll</a>
 
 
 
