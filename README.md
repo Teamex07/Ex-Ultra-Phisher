@@ -6,7 +6,7 @@ A multifunctional Telegram Bot based Android App Get Victims Information Receive
 ## Demo
 ![Logo](Screenshot_2022-12-30-00-14-01-11_abc46ec4f848cc48e27ef2418ea8df26.jpg)
 
-! ![Logo](Screenshot_2022-12-30-00-14-01-11_abc46ec4f848cc48e27ef2418ea8df26.jpg)
+! ![Logo](Screenshot_2022-12-30-00-13-10-15_0b342c26d6c44f3c8d2de40eabb4e1da.jpg)
 
 
 
