@@ -32,9 +32,13 @@ A multifunctional Telegram Bot based Android App Get Victims Information Receive
 
 
 
-## Feedback
+## SetUo
 
-If you have any feedback, please reach out to us at teamex202207@gmail.com
+Go To Bot father link & Create Bot https://t.me/BotFather
+
+Copy Api Token
+
+Then Go To Our Anya Bot & Copy Chat Id https://t.me/spy_anya_bot
     
 
 
