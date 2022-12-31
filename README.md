@@ -68,6 +68,6 @@ For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our chan
 
 
 ## SetUp Video
-<a href="">DOWNLOAD NOW</a>
+<a href="https://t.me/Teamex07/391">Click Here</a>
 
 
